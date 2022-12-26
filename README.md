@@ -1,4 +1,11 @@
-## git clone
+## 特性
+
+* 穿透http协议
+* 穿透 websocket协议
+* 支持 https
+    * 第一次使用时，https证书可能两分钟后生效 
+
+## 安装
 
 gitee
 ```
@@ -14,6 +21,9 @@ git clone https://github.com/wpjscc/reactphp-like-ngork-client
 
 ## 获取token
 
+可使用一个公有token ICnw6YVCRZp0KkInR9oMSR0ejeyPQNin
+
+> 注意该token可能被占用，或定期被更新
 
 
 ## 使用
@@ -51,4 +61,15 @@ ws://返回的域名
 或
 
 wss://返回的域名
+
+
+
+## 交流
+
+添加作者微信 amNjMjAxNDAxMjY=  暗号 “reactphp进群”
+
+## 其他
+
+* 技术栈是什么
+    * php reactphp
 
