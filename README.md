@@ -27,7 +27,7 @@ git clone https://github.com/wpjscc/reactphp-like-ngork-client
 * u0P8USK9XEwnYQ4zZy55DuyOxOhb5u35
 * xo18g6QEvH1H0edtXgNlxR8gPcaFTldC
 
-> 注意该token可能被占用，或定期被更新。想定制私有token，可联系作者添加
+> 注意该token可能被占用，或定期被更新。token 不够用，可联系作者添加
 
 
 ## 使用
