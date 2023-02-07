@@ -66,6 +66,21 @@ ws://返回的域名
 
 wss://返回的域名
 
+## docker run
+
+```
+docker run -it --rm wpjscc/reactphp-like-ngork-client php  proxy_client.php 192.168.1.1 ICnw6YVCRZp0KkInR9oMSR0ejeyPQNin
+```
+停止容器
+
+```
+docker ps | grep reactphp
+```
+
+```
+docker stop containerId
+```
+
 
 
 ## 交流
